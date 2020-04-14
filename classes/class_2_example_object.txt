@@ -1,0 +1,13 @@
+ourLargeTableCloth
+
+Attributes
+* color = "white"
+* folded = true
+* length = 16
+* width = 6
+
+Methods
+* ourLargeTableCloth.dye("Blue") = makes color "Blue"
+* ourLargeTableCloth.getSize() = prints 96
+* ourLargeTableCloth.setToTable() = makes folded boolean false
+*ourLargeTableCloth.fold() = makes folded boolean true
