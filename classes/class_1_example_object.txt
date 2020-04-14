@@ -1,0 +1,13 @@
+nonBianaryBathroomOne
+
+Attributes
+* clean = true
+* numberOfStalls = 1
+* occupants = 0
+* cleaner = ""
+
+Methods
+* nonBianaryBathroomOne.cleanUp() = sets clean to true
+* nonBianaryBathroomOne.assignCleaner("Tyler") = sets cleaner to "Tyler"
+* nonBianaryBathroomOne.addCustomer() = sets occupants = 1
+* nonBianaryBathroomOne.checkOccupied() = sees 1 occupant and 1 stall so prints "Full"
