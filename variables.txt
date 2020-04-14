@@ -1,0 +1,9 @@
+var food =  "grape";
+var is_delicious = true;
+food = "egg";
+var num2 = 2;
+var num7 = 7;
+var quotient = num7 / num2;
+var songs ["ABC's", "Vida-Loca", "Slave 4 U"];
+songs.shift(); //["Vida-Loca", "Slave 5 U"]
+console.log(food.length); //3
