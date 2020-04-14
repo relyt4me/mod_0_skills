@@ -1,0 +1,13 @@
+TableCloth
+
+Attributes
+* color(string)
+* folded(boolean)
+* length(integer)
+* width(integer)
+
+Methods
+* dye(changes the color string)
+* getSize(multiples the length and width to print and area)
+* fold(sets folded boolean to true)
+* setToTable(sets folded boolean to false)
