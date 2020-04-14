@@ -1,0 +1,14 @@
+Bathroom
+
+Attributes
+* clean(boolean)
+* numberOfStalls(integer)
+* occupants(integer)
+* cleaner(string)
+
+Methods
+* cleanUp(sets clean boolean to true)
+* assignCleaner(changes cleaner string to given worker name)
+* addCustomer(increase the number of occupants by 1)
+* checkOccupied(compares the occupants to the number of Stalls and returns a
+string of "Full" the occupants is more than stalls, and "Open" if occupants is less than stalls)
